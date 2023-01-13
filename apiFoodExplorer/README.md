@@ -26,6 +26,9 @@ OBS: É possivel utilizar o prompt de comando ou algum outro terminal diretament
 ### Se cadastrando na aplicação
 Ao iniciar a aplicação será mostrada a tela de login, clique em **criar conta** para se cadastrar e depois faça o login. Para acessar como **administrador** cadastre um email que contenha a palavra **admin** por exemplo _fulanodasilva@admin.com_ caso contrário você será apenas um usuário comum e não poderá cadastrar, atualizar e deletar nenhuma informação.
 
+user: marsallatoscano@admin.com
+password:123456
+
 ### Navegando pela aplicação
 * Na pagina inicial será mostrado todos os pratos, sobremesas e bebidas. Para buscar por um nome específico digite o nome no campo de busca na parte superior.
 
